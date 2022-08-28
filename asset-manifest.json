@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AnimeRobots/static/css/main.10473e0d.css",
+    "main.js": "/AnimeRobots/static/js/main.09d66c3e.js",
+    "static/js/787.32032a02.chunk.js": "/AnimeRobots/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/AnimeRobots/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/AnimeRobots/index.html",
+    "main.10473e0d.css.map": "/AnimeRobots/static/css/main.10473e0d.css.map",
+    "main.09d66c3e.js.map": "/AnimeRobots/static/js/main.09d66c3e.js.map",
+    "787.32032a02.chunk.js.map": "/AnimeRobots/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10473e0d.css",
+    "static/js/main.09d66c3e.js"
+  ]
+}
